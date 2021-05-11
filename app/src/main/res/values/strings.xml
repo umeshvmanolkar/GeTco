@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Get</string>
+
+    <string name="permission_preference">PERMISSION_PREFERENCE</string>
+    <string name="permission_sms">PERMISSION_SMS</string>
+    <string name="permission_contacts">PERMISSION_CONTACTS</string>
+
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="TEXT_PASSWORD">APP_TEXT_PASSWORD</string>
+
+    <string name="PREF_PREFs">prefs</string>
+
+
+</resources>
